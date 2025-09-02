@@ -1,5 +1,5 @@
 # How to Write Strong Prompts for AI Tools
-#Guidelines for Effective AI-Assisted Programming (Generated with assistance from Co-Pilot)
+Guidelines for Effective AI-Assisted Programming (Generated with assistance from Co-Pilot)
 
  
 
